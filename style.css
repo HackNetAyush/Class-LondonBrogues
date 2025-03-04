@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "SharpSansBold";
+  src: url("https://www.pizzahut.co.in/order/css/fonts/SharpSansBold/SharpSansDispNo1-Bold.c343c52da65f1f57d80ee113237e463a.woff2")
+    format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: "SharpSansBold", sans-serif;
+}
